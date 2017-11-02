@@ -18,6 +18,8 @@ public class G4 {
         System.out.println("Main");
         System.out.println("First-branch");
         System.out.println("hihihihihihi");
+          System.out.println("hihihihihihi");  System.out.println("hihihihihihi");
+          System.out.println("hihihihihihi");
     }
     
 }
